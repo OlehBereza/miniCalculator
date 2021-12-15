@@ -52,22 +52,16 @@ Program ma minimalne wymaganie sprzętowe<br>
 <h2>
   Zrzuty ekranu
 </h2>
-Zaczynamy od podania imienia i nazwiska, wyswietla sie tablica MENU wybieramy istniejącą opcje
+Pierwsza strona odrazu odtwiera kalkulator
 
-![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_1.jpg?raw=true)
-
-<br>
-Wybieram poziom trudnści i otrzymuje 5 zyć. Następnym krokiem wybieram numer tematu naprzykłąd Morze Bałtyckiei Polska 
-
-![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_2.jpg?raw=true)
+![alt tag](https://github.com/OlehBereza/miniCalculator/blob/main/screenMiniCal/Screenshot_1.jpg?raw=true)
 
 <br>
-Odpowiadamy na 8 pytan na wybrany temat
+wpisuje hasło(abc) wcistam Enter i dodaje 2+2
 
-![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_3.jpg?raw=true)
+![alt tag](https://github.com/OlehBereza/miniCalculator/blob/main/screenMiniCal/Screenshot_2.jpg?raw=true)
 
 <br>
-Na końcu wyswietla się tablczka z Imiem Nazwiskiem Punktami które dostałęm i oceną
+Przykład z większymi liczbami
 
-![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_4.jpg?raw=true)
-
+![alt tag](https://github.com/OlehBereza/miniCalculator/blob/main/screenMiniCal/Screenshot_3.jpg?raw=true)
