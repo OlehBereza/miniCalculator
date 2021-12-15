@@ -13,8 +13,8 @@
   Wprowadzenie – cel projektu
   </i>
 </h3>
-Czwiceniowy program dodający podene liczby z hasłem przy wejśćiu
-Przez stworzenia tego pruektu głownym zamiarem było nauczyc się programowac
+Czwiceniowa aplikacja dodający podene liczby z hasłem przy wejśćiu<br>
+Przez stworzenia tego pruektu głownym zamiarem było nauczyc się podstaw C#
 <br>
 
 <h3>
@@ -22,10 +22,8 @@ Przez stworzenia tego pruektu głownym zamiarem było nauczyc się programowac
   Project
   </i>
 </h3>
-Program oblicza zapisuje nowego użytkownika, pobiera imię i nazwisko dalej gracz musi wybrać temat i trudność<br>
-Trudność daje okresloną liczbę żyć czyli błędnych odpowiedzi.<br>
-Dobra odpowiedż daje 1 punkt a zła odemuje życie, jezei życia się skończą to gra się skońcy i wyswietli info(imię nazwisko i ile dostałeś punktów i jaką masz ocene).
-
+Aplikacja dodaje 2 licby. 
+Przy wejśćiu uzytkwnik musi wpisać hasło podane przez autora dla kontynuacji kożystania z programu(hasło=abc)
 <br>
 
 <h3>
@@ -35,7 +33,7 @@ Dobra odpowiedż daje 1 punkt a zła odemuje życie, jezei życia się skończą
 </h3>
 Project stworzny przez:
 <br>
-- C++
+- C#
 <br>
 Stworzony w programie:
 <br>
@@ -46,9 +44,9 @@ Stworzony w programie:
   Uruchomienie
   </i>
 </h3>
-Program ma minimalne wymaganie sprzętowe<br>
 Pobierz podaną versje programu lub nowszą Visual Studio<br>
-Pobrać (.vs/test/v16, Debug, test, test.sln) i otwóz głowny file test.sln. Po otworzeniu wszodzimy do test.cpp w Solution Explorerw
+Pobrać (.vs/zad1, zad1, zad1.sln) i otwóz głowny file test.sln. Po otworzeniu wciskam Start i Aplikacja działa<br>
+Program ma minimalne wymaganie sprzętowe<br>
 
 
 <h2>
