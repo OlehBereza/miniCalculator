@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">
   <b>MiniCalculator</b>
 </h1>
@@ -48,7 +47,6 @@ Pobierz podaną versje programu lub nowszą Visual Studio<br>
 Pobrać (.vs/zad1, zad1, zad1.sln) i otwóz głowny file test.sln. Po otworzeniu wciskam Start i Aplikacja działa<br>
 Program ma minimalne wymaganie sprzętowe<br>
 
-
 <h2>
   Zrzuty ekranu
 </h2>
@@ -57,7 +55,7 @@ Pierwsza strona odrazu odtwiera kalkulator
 ![alt tag](https://github.com/OlehBereza/miniCalculator/blob/main/screenMiniCal/Screenshot_1.jpg?raw=true)
 
 <br>
-wpisuje hasło(abc) wcistam Enter i dodaje 2+2
+Wpisuje hasło(abc) wcistam Enter i dodaje 2+2
 
 ![alt tag](https://github.com/OlehBereza/miniCalculator/blob/main/screenMiniCal/Screenshot_2.jpg?raw=true)
 
