@@ -1,25 +1,20 @@
+<hr>
 <h1 align="center">
   <b>MiniCalculator</b>
 </h1>
-
-<p align="center">
-  <img src="https://www.trace-software.com/wp-content/uploads/2021/10/FR-EN-DE-elec-calc-blanc-version-21.png" />
-</p>
-
 <i>
 <p align="right">
   Oleh Bereza
 </p>
 </i>
 
-<hr>
 <h3>
   <i>
   Wprowadzenie – cel projektu
   </i>
 </h3>
-Czwiceniowa Gra Quiz w wierszu poleceń Visual Studio 2019 na punkty z wyborem cięzkości i ocenianiem na końcu
-Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języku C++, utworzenia metod, objektów, void, obliczeń przez switch | case | if | else if
+Czwiceniowy program dodający podene liczby z hasłem przy wejśćiu
+Przez stworzenia tego pruektu głownym zamiarem było nauczyc się programowac
 <br>
 
 <h3>
